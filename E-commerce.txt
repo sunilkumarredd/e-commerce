@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <titile>E-Commerce product page</titile>
+        <style>
+            body{
+                font-family: Arial,  sans-serif;
+            }
+            header{
+                background-color: #333;
+                color: #fff;
+                text-align: center;
+                padding: 10px;
+            }
+            .container{
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            product{
+                text-align: center;
+                padding: 20px; 
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome To Our Product</h1>
+        </header>
+        <div class="container">
+            <img src="bluetooth.jpg" alt="bluetooth">
+            <h2>Product Name</h2>
+            <p>Description of the product goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Price:₹ 1299</p>
+            <button >
+                <a href="https://www.flipkart.com/boult-audio-z40-zen-enc-mic-60h-battery-life-low-latency-gaming-made-india-5-3-bluetooth-headset/p/itmd1b7f7a91680e?pid=ACCGKXHYNUNAAPQU&lid=LSTACCGKXHYNUNAAPQU3M0KRD&marketplace=FLIPKART&q=bluetooth+headset&store=0pm%2Ffcn&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=search-autosuggest&iid=en_--CVIRN6jZkzK-hb3rkat7cLhCkpuvleR9VjQy8ovoaik4LFy8WmbqyeCzFuCn5CzhBXDlXad1ok7-QTVSsoMg%3D%3D&ppt=sp&ppn=sp&ssid=adq81dv1680000001696092616475&qH=86f9ffe5c69c010f">
+                Add to cart</a></button>
+                <h1>Highlights</h1>
+                <ul>
+                    <ol span style="font-size: 500;">&#9679;With Mic:Yes</ol>
+                    <ol span style="font-size: 500;">&#9679;Wireless range: 10 m</ol>
+                    <ol span style="font-size: 500;">&#9679;Battery life: 60 hrs</ol>
+                    <ol span style="font-size: 500;">&#9679;Zen Tech ENC mic |Low Latency Gaming | 60Hrs Battery Life</ol>
+                    <ol span style="font-size: 500;">&#9679;Lightning Boult Type-C Fastest Charging | 10 Mins Charge = 100 Mins Playtime | 10mm Drivers
+                    </ol>
+                    <ol span style="font-size: 500;">&#9679;BoomX Tech for Supreme Bass | IPX5 Water Resistant | Voice Assistant | Touch Control | Fast Pairing
+                    </ol>
+                </ul>
+                <h1>Description</h1>
+                <p>Introducing the unstoppable warrior, the Boult Z40 Earbuds. Indulge in crystal-clear sound and immersive bass thanks to the powerful 10 mm BoomX Drivers. With Zen Tech ENC, noise becomes a thing of the past. Stay connected with the latest Bluetooth 5.3 technology, ensuring a stable and seamless connection for uninterrupted entertainment. The Combat Gaming mode with low latency gives you a competitive edge like never before. Navigate your audio with ease using the touch controls, providing convenient access to your music and calls. Plus, with just a quick 10-minute charge, you can enjoy an impressive 100 minutes of playtime. But the magic doesn't stop there. The Boult Z40 Earbuds offer an astounding 60 hours of playtime, ensuring that your music never stops, no matter how long your journey. Worried about water? Don't be! The Boult Z40 Earbuds boast an amazing IPX5 water resistance, allowing you to enjoy your favorite tunes without hesitation, no matter the adventure. Choose from a wide range of astonishing hues of Blue, White, and Brown, and let your style shine as you elevate your fashion game. Unleash the true potential of your music and make a bold statement with Boult Z40 Earbuds. Your audio adventure awaits.
+                </p>
